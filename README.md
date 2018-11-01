@@ -1,4 +1,4 @@
-# JavaScript code prettifier
+# JavaScript code prettifier 
 
 An embeddable script that makes source-code snippets in HTML prettier.
 
@@ -21,7 +21,7 @@ An embeddable script that makes source-code snippets in HTML prettier.
 
  * Include the script tag below in your document:
 ```HTML
-<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/shikhir-arora/code-prettify@patch-1/js-modules/run_prettify.js"></script>
 ```
  * See [Getting Started](docs/getting_started.md) to configure that URL with
    options you need.
@@ -229,7 +229,7 @@ general feedback.
 [Apache License 2.0](COPYING)
 
 
-[1]: https://rawgit.com/google/code-prettify/master/styles/index.html
+[1]: https://code-prettify.netlify.com
 [2]: https://rawgit.com/google/code-prettify/master/examples/quine.html
 [3]: http://dev.w3.org/html5/spec-author-view/the-code-element.html#the-code-element
 [4]: https://rawgit.com/google/code-prettify/master/tests/prettify_test.html
